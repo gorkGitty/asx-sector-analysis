@@ -20,8 +20,8 @@ ASX-ETF-Analysis/
 ├── data/ # Clean datasets and extraction script
 │ ├── ASX_Sector_Performance_Daily.csv
 │ ├── ASX_Sector_Performance_Metrics.csv
-│ └── CPI by quarter YoY.xlsx
-│ └── RBA_Rate_Changes.csv
+│ ├── CPI by quarter YoY.xlsx
+│ ├── RBA_Rate_Changes.csv
 │ └── dataExtraction_calculation.py
 │
 ├── visuals/ # Exported PNGs of dashboard pages
@@ -107,7 +107,7 @@ ASX-ETF-Analysis/
 ## 👤 Author
 
 **Prinsh Thapa**  
-🎓 Bachelor of IT (Final Year)  
+🎓 Bachelor of IT  
 📍 Sydney, Australia  
 🔗 [LinkedIn](https://www.linkedin.com/in/prinsh-thapa/) | [GitHub](https://github.com/gorkGitty)
 
