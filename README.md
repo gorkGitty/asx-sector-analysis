@@ -14,7 +14,7 @@ This Power BI project explores the performance of key **Australian sector ETFs**
 ---
 
 ## 📁 Project Structure
-
+```
 ASX-ETF-Analysis/
 │
 ├── data/ # Clean datasets and extraction script
@@ -31,7 +31,7 @@ ASX-ETF-Analysis/
 │
 ├── ASX_ETF_Dashboard.pbix # Final Power BI file
 └── README.md
-
+```
 ---
 
 ## 📈 Datasets Used
