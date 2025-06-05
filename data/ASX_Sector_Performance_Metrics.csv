@@ -1,0 +1,6 @@
+Ticker,Sector,Cumulative_Return,Annualized_Return,Daily_Volatility,Annualized_Volatility
+^AXJO,Index,0.196,0.043,0.0153,0.243
+ATEC.AX,Technology,0.262,0.057,0.0129,0.205
+MVR.AX,Resources,0.8,0.149,0.01,0.159
+QFN.AX,Financials,0.302,0.064,0.0129,0.205
+SLF.AX,Property,0.194,0.043,0.0079,0.126
